@@ -1,7 +1,7 @@
 # Instagram Auto Unfollow
 Tools for automatically Unfollow your Instagram Following(s), With 2 options including Unfollow All or Unfollow not following you back.
 
-![Screenshoot](Images/Screenshoot.PNG)
+![Screenshoot](Images/Screenshot.PNG)
 
 ## Features
 You can automatically Unfollow your Instagram Following(s), With 2 options including Unfollow All or Unfollow not following you back.
